@@ -1,0 +1,84 @@
+
+    body{
+        margin-left: 0px;
+        margin-top: 0px;
+        font-family: 'Poppins', sans-serif;
+        margin-right: 0px;
+    }
+    h1{
+        font-size: 50px;
+    }
+    h2{
+        font-size: 40px;
+    }
+    p{
+        color: dimgray;
+    }
+    .orange-highlight{
+        color: orange;
+    }
+    .half-width{
+        width: 40%;
+        float: left;
+        margin-left: 5%;
+        padding-left: 2%;
+    }
+    .half-width img{
+        width: 100%;
+    }
+    .top-banner{
+        background-image: url("images/top-banner.png");
+        background-repeat: no-repeat;
+    }
+    section{
+        height: 500px;
+        margin-bottom: 100px;
+    }
+    .anchor-button{
+        text-decoration: none;
+        background-image: linear-gradient(45deg,lightsalmon,tomato);
+        padding: 10px 20px;
+        border-radius: 5px;
+        color: white;
+    }
+     .facebook{
+         text-decoration: none;
+         background-color: orange;
+         padding: 10px 30px;
+         border-radius: 5px;
+         color: white;
+        }
+        .dream-area{
+            background-image: url("images/dream-bg.png");
+            background-repeat: no-repeat;
+            background-position: right;
+
+        }
+        .single-exparience{
+            box-shadow: 10px 10px 40px grey;
+            height: 80%;
+            border-radius: 10px;
+            background-color: white;
+        }
+        .last-banner{
+            background-image: url("images/exp-bg.png");
+            background-repeat: no-repeat;
+            background-position: left;
+
+        }
+        #full-stack{
+            border-left: 7px solid;
+            border-image: linear-gradient(180deg,lightsalmon,tomato);
+            border-image-slice: 1;
+            
+         }
+         #baby-web{
+             border-left: 7px solid;
+             border-image: linear-gradient(180deg,blue,cyan);
+             border-image-slice: 1;
+         }
+         footer{
+             text-align: center;
+             font-size: 15px;
+         }
+    
